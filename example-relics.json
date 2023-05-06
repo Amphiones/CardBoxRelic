@@ -1,0 +1,10 @@
+{
+		"CardBox:CardBox": {
+        "NAME": "Card Box",
+        "FLAVOR": "Handy for deck building",
+        "DESCRIPTIONS": [
+            "Obtaining this relic will lock your deck size to current amount",
+		"Any new obtained card will replace the first added card
+	]
+    }
+}
